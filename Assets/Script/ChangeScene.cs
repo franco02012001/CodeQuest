@@ -24,6 +24,11 @@ public class ChangeScene : MonoBehaviour
 
         SceneManager.LoadScene("LandingPage");
     }
+    public void GoToWelcome()
+    {
+
+        SceneManager.LoadScene("Welcome");
+    }
 
 
 }
