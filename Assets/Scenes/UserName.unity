@@ -624,8 +624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7d028a57f857a341aa5f915bc5ecb58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  output: {fileID: 284054574}
-  userName: {fileID: 2074851034}
+  playername: {fileID: 2074851034}
 --- !u!1 &803422179
 GameObject:
   m_ObjectHideFlags: 0
@@ -1368,6 +1367,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aaabceafff0bbb54396a4e48f63b5c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playername: {fileID: 0}
 --- !u!114 &1385650496
 MonoBehaviour:
   m_ObjectHideFlags: 0
